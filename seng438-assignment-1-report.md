@@ -44,6 +44,8 @@ From section 1.3.1 in the exploratory test plan, we split into 2 pairs consistin
 
 # Comparison of exploratory and manual functional testing
 
+With exploratory testing, the user is less restricted with the types of tests the program can undergo. For example, the bug in version 1.0 where selecting an invalid menu option would withdraw money was only found in exploratory testing. In contrast, manual functional testing is more structural with a broader scope on the types of test cases. Manual functional testing is also more rigerous because it uses a set plan of tests with specified input, initial state and output. 
+
 [Backlog bug report](https://github.com/seng438-winter-2022/seng438-a1-Mik-Ese/blob/main/Backlog-Issues-20220124-0713.xlsx)
 
 
