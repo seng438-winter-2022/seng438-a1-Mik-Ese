@@ -9,6 +9,7 @@
 | Faisal  | Hossain  |
 | Cheyenne  | Goh  |
 
+
 **Table of Contents**
 
 (When you finish writing, update the following list using right click, then
@@ -51,19 +52,36 @@ With exploratory testing, the user is less restricted with the types of tests th
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+We had two layers of peer testing. The first layer was through the techinque of pair testing, where the partner analyzes the test cases being executed by the tester. The second layer was through the cross review of the each pair reviewing the other. For example, when one pair found a defect and they report the bug into Backlog, they can check if the bug was already reported on Backlog. If the bug was already documented, they can check and review the bug. If not, then they can issue a new bug report.
+
+Additionally, every member reevaluated every filed bug report to ensure that there were no errors in reporting. 
 
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+Pair 1 Testing done by Dylan and Michele. 
+
+Pair 2 Testing done by Faisal and Cheyanne.
+
+Both pairs did test cases outlined in the test plan for Exploratory testing. 
+
+For Regression testing, the pairs switched roles and reviewed the bug reports listed on Backlog and checked if the bugs were still present in the updated version (1.1) of the ATM system.
 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+### Difficulties encountered
+- Preparation work for the Exploratory test plan took much longer than expected.
 
+
+### Challenges overcome
+- Organizing bugs into categories
+- Avoiding duplicate bug reports
+
+
+### Lessons learned
+- How to use Backlog as a Bug tracking tool
+- Proper ways on how to report a bug
 
 # Comments/feedback on the lab and lab document itself
-
-Text…
+Informative lab about testing.
