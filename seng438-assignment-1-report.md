@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#: 27       |   |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Michele  | Esercitato  |
+| Dylan  | Mah  |
+| Faisal  | Hossain  |
+| Cheyenne  | Goh  |
 
 **Table of Contents**
 
@@ -34,6 +34,8 @@ learned	1](#_Toc439194682)
 
 An introduction of your lab work, and what you knew about exploratory and manual
 functional testing before this lab
+ 
+This lab was used to teach students about exploratory, manual functional testing and regression testing. It also got students familiar with Backlog, a website used to create a list of issues with a program. Before the lab, we knew that explatory testing was playing around with a program and see if we could find any bugs with key features. Manual functional testing was testing specific functions using a plan that would specify inputs and expected outputs.
 
 # High-level description of the exploratory testing plan
 
