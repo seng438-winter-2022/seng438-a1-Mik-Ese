@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#: 27       |   |
+| Group \#: 27  |   |
 |-----------------|---|
 | Michele  | Esercitato  |
 | Dylan  | Mah  |
@@ -37,7 +37,7 @@ This lab was used to teach students about exploratory, manual functional testing
 
 # High-level description of the exploratory testing plan
 
-Text…
+From section 1.3.1 in the exploratory test plan, we split into 2 pairs consisting of Michele and Dylan as pair 1 and Faisal and Cheyenne as pair 2. Both pairs went on to use the modules described in section 1.1.1 in the exploratory test plan. For over 30 minutes, both pairs played around with the features of the programs and checked if the modules worked as instended. If any bugs were found, issues were logged in the Backlog defect tracking system. 
 
 
 # Comparison of exploratory and manual functional testing
