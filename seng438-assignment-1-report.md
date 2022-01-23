@@ -39,6 +39,8 @@ This lab was used to teach students about exploratory, manual functional testing
 
 From section 1.3.1 in the exploratory test plan, we split into 2 pairs consisting of Michele and Dylan as pair 1 and Faisal and Cheyenne as pair 2. Both pairs went on to use the modules described in section 1.1.1 in the exploratory test plan. For over 30 minutes, both pairs played around with the features of the programs and checked if the modules worked as instended. If any bugs were found, issues were logged in the Backlog defect tracking system. 
 
+[Exploratory test plan](https://github.com/seng438-winter-2022/seng438-a1-Mik-Ese/blob/main/Assignment%201%20-%20Test%20Plan.pdf)
+
 
 # Comparison of exploratory and manual functional testing
 
