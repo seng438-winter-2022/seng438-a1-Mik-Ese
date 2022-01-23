@@ -2,12 +2,13 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#:       | UCID  |
 |-----------------|---|
 | Student Names:  |   |
-| Michele Esercitato  |   |
-|                 |   |
-|                 |   |
+| Cheyenne Goh  |   |
+| Dylan Mah  |   |
+| Faisal Hossain  |   |
+| Michele Esercitato  |  |
 
 **Table of Contents**
 
