@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#: 27  |   |
+| Group \#: | 27 |
 |-----------------|---|
 | Michele  | Esercitato  |
 | Dylan  | Mah  |
