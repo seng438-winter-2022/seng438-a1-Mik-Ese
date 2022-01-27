@@ -31,7 +31,7 @@
 
 # Introduction
  
-This lab was used to teach students about exploratory, manual functional testing and regression testing. It also got students familiar with Backlog, a website used to create a list of issues with a program. Before the lab, we knew that exploratory testing was playing around with a program and see if we could find any bugs with key features. Manual functional testing was testing specific functions using a plan that would specify inputs and expected outputs.
+This lab was used to teach students about exploratory, manual functional testing and regression testing. It also got students familiar with Backlog, a website used to create a list of issues with a program. Before the lab, we knew that exploratory testing was playing around with a program and seeing if we could find any bugs with key features. We understood that manual functional testing, or MFT, was testing specific functions using a plan that would specify inputs and expected outputs.
 
 
 # High-level description of the exploratory testing plan
@@ -80,6 +80,7 @@ For Regression testing, the pairs switched roles and reviewed the bug reports li
 ### Lessons learned
 - How to use Backlog as a Bug tracking tool
 - Proper ways on how to report a bug
+
 
 # Comments/feedback on the lab and lab document itself
 Informative lab about testing.
